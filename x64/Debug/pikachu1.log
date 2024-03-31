@@ -1,0 +1,10 @@
+﻿  Check1.cpp
+  Check2.cpp
+  DifficultMode.cpp
+D:\code\pikachu1\pikachu1\DifficultMode.cpp(346,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  NormalMode.cpp
+D:\code\pikachu1\pikachu1\NormalMode.cpp(373,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Unity.cpp
+  Generating Code...
+  pikachu1.vcxproj -> D:\code\pikachu1\x64\Debug\pikachu1.exe

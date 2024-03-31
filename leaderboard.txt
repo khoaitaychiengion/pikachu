@@ -1,0 +1,6 @@
+bang 400
+popo 400
+j 220
+mike 160
+gh 100
+bng 60
